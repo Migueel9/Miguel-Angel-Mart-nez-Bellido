@@ -1,5 +1,8 @@
 # Miguel-Angel-Martinez-Bellido
 # 👋 Hola, soy Miguel
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Miguel&label=Visitas&color=0e75b6&style=flat" alt="visitas" />
+</p>
 
 🎓 Estudiante de Sistemas Microinformáticos y Redes (SMR)  
 🖥️ Interesado en soporte técnico, administración de sistemas y redes  
