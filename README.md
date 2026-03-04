@@ -25,14 +25,3 @@
 
 🎯 Interesado en desarrollarme profesionalmente en el área de  
 💻 **Soporte IT** y 🛠️ **Administración de Sistemas**
-
-## 🛠️ Tecnologías que uso / aprendo
-
-![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-Administración-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu%20Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Redes](https://img.shields.io/badge/Redes-TCP%2FIP-00599C?style=for-the-badge&logo=cisco&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-Entornos%20de%20dominio-003366?style=for-the-badge&logo=microsoft&logoColor=white)
-![Virtualización](https://img.shields.io/badge/Virtualización-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-Básico-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Básico-121011?style=for-the-badge&logo=gnubash&logoColor=white)
